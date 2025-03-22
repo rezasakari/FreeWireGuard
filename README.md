@@ -1,0 +1,2 @@
+# FreeWireGuard
+ping game pubgi
